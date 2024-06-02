@@ -1,3 +1,8 @@
+# julia's dotfiles
+
+this is my personal config. it's designed around a mix of Catppuccin and Dracula, and specifically suited to
+i3 (though it works with Sway, too). 
+
 ## me-specific config; you should change it!
 
 to be clear, change whatever you want, but you *need* to change these for them to work right, unless
@@ -21,9 +26,10 @@ Aside from those immediately listed in the root as directories, there are a few 
 ### i3
 - `feh`, for wallpaper management
 - `xborders`, for pretty rounded corners
+- `rofi`, as an app launcher
 
 ### kitty
-- any font of your choice; i like NerdFonts, and specifically EnvyCodeR. use whatever, though.
+- any font of your choice; i like NerdFonts, and specifically EnvyCodeR. use whatever, though. 
 
 ### polybar
 
