@@ -3,6 +3,8 @@
 this is my personal config. it's designed around a mix of Catppuccin and Dracula, and specifically suited to
 i3 (though it works with Sway, too). 
 
+!! THIS CONFIG IS DESIGNED TO WORK AS A WHOLE. APPLY ONLY PART OF IT AT YOUR OWN RISK !!
+
 ## me-specific config; you should change it!
 
 to be clear, change whatever you want, but you *need* to change these for them to work right, unless
@@ -16,7 +18,8 @@ you magically happen to have the same config as me.
 - lines 45 and 189 in polybar/config.ini; change to whatever your primary/secondary monitors are.
   - remove 187-189 if you only have a single monitor
 
--
+- by default, neofetch prints the Aperture Science logo. i've included 2 other ASCII arts (HL Lambda
+BMRF logo), but you can leave it as is (line 750 of neofetch/config.conf)
 
 
 ## Dependencies
