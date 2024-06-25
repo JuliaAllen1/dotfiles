@@ -1,9 +1,8 @@
 # julia's dotfiles
 
 this is my personal config. it's designed around a mix of Catppuccin and Dracula, and specifically suited to
-i3 (though it works with Sway, too). 
+i3 (though it may work with Sway, too, if you mess around with it a bit). 
 
-!! THIS CONFIG IS DESIGNED TO WORK AS A WHOLE. APPLY ONLY PART OF IT AT YOUR OWN RISK !!
 
 ## me-specific config; you should change it!
 
